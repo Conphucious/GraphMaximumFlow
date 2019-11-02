@@ -1,6 +1,6 @@
 # Graph Maximum Flow
 
-![alt graph](https://raw.githubusercontent.com/Conphucious/GraphMaximumFlow/master/DependencyProject.png)
+![alt graph](https://raw.githubusercontent.com/Conphucious/GraphMaximumFlow/master/DependencyProject.jpg)
 
 An exercise project to find the best path to maximum profits based on dependencies and expenses.
 
